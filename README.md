@@ -2,7 +2,9 @@
 
 ###
 
-<p align="left">Two years ago, I decided to shift my career path and become a data scientist. Since then, I have been dedicating myself to learning the key technologies and languages required in the field, such as Python, R, SQL, and tools like Pandas, NumPy, TensorFlow, and scikit-learn. I've also gained expertise in data visualization libraries like Matplotlib and Seaborn, as well as data analysis platforms like Hadoop and Spark. My goal is to apply these skills to solve complex problems through the analysis of large datasets.</p>
+<p align="left">Two years ago, I made the decision to transition my career towards data science. Since then, I have been fully committed to mastering the essential technologies and programming languages in this field, including Python, R, SQL, and powerful tools like Pandas, NumPy, TensorFlow, and scikit-learn. I have also developed expertise in data visualization libraries such as Matplotlib and Seaborn, along with data processing platforms like Hadoop and Spark. My aim is to leverage these skills to tackle complex challenges by analyzing large-scale datasets.
+
+Welcome to my portfolio! Here, you’ll find a collection of projects that highlight my abilities and knowledge in data science and analytics.</p>
 
 ###
 
@@ -46,18 +48,10 @@
 ###
 
 <div align="center">
-  <a href="<a href="mailto:andres.almozara@gmail.com">" target="_blank">
+  <a href="<a href="mailto:andres.almozara@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=andres.almozara@gmail.com&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="www.linkedin.com/in/andres-almozara-garcía-79026b239" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/AndresAlmozara/AndresAlmozara/output/snake.svg" alt="Snake animation" />
-
-###
